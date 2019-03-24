@@ -1,8 +1,7 @@
 package springboot.com.cn.interceptor;
 
-import org.aopalliance.intercept.Invocation;
 
-import java.lang.reflect.InvocationTargetException;
+import springboot.com.cn.bean.Invocation;
 
 public interface Interceptor {
 
